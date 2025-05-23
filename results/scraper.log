@@ -1,0 +1,37 @@
+2025-05-24 00:30:37,550 - INFO - Starting complete MENA AI/ML job market analysis...
+2025-05-24 00:30:37,550 - INFO - Starting comprehensive job search...
+2025-05-24 00:30:37,550 - INFO - 
+Scraping WUZZUF
+2025-05-24 00:30:37,555 - INFO -   Fetching: https://wuzzuf.net/search/jobs/?q=artificial+intelligence
+2025-05-24 00:30:38,640 - INFO -   Found 9 jobs on https://wuzzuf.net/search/jobs/?q=artificial+intelligence
+2025-05-24 00:30:41,669 - INFO -   Fetching: https://wuzzuf.net/search/jobs/?q=machine+learning
+2025-05-24 00:30:42,663 - INFO -   Found 20 jobs on https://wuzzuf.net/search/jobs/?q=machine+learning
+2025-05-24 00:30:46,499 - INFO -   Fetching: https://wuzzuf.net/search/jobs/?q=data+scientist
+2025-05-24 00:30:47,308 - INFO -   Found 31 jobs on https://wuzzuf.net/search/jobs/?q=data+scientist
+2025-05-24 00:30:50,334 - INFO - Added 31 jobs from wuzzuf
+2025-05-24 00:30:50,334 - INFO - 
+Scraping NAUKRIGULF
+2025-05-24 00:30:50,343 - INFO -   Fetching: https://www.naukrigulf.com/artificial-intelligence-jobs
+2025-05-24 00:30:50,987 - INFO -   Found 0 jobs on https://www.naukrigulf.com/artificial-intelligence-jobs
+2025-05-24 00:30:53,943 - INFO -   Fetching: https://www.naukrigulf.com/machine-learning-jobs
+2025-05-24 00:30:54,344 - INFO -   Found 0 jobs on https://www.naukrigulf.com/machine-learning-jobs
+2025-05-24 00:30:56,784 - WARNING - No jobs found from naukrigulf
+2025-05-24 00:30:56,785 - INFO - 
+Scraping GULFTALENT
+2025-05-24 00:30:56,792 - INFO -   Fetching: https://www.gulftalent.com/jobs/artificial-intelligence
+2025-05-24 00:31:00,310 - INFO -   Fetching: https://www.gulftalent.com/jobs/machine-learning
+2025-05-24 00:31:03,415 - WARNING - No jobs found from gulftalent
+2025-05-24 00:31:03,416 - INFO - Total jobs collected: 31
+2025-05-24 00:31:03,426 - INFO - Analyzing job data...
+2025-05-24 00:31:03,456 - INFO - Analyzed 31 jobs across 6 categories
+2025-05-24 00:31:03,457 - INFO - Jobs from 4 countries
+2025-05-24 00:31:03,458 - INFO - Data from 1 sources
+2025-05-24 00:31:03,459 - INFO - Creating comprehensive reports...
+2025-05-24 00:31:05,556 - INFO - PDF report saved to C:\Users\PC\Desktop\crewAi\results\mena_ai_ml_jobs_report.pdf
+2025-05-24 00:31:05,563 - INFO - CSV data exported to C:\Users\PC\Desktop\crewAi\results\mena_ai_ml_jobs_data.csv
+2025-05-24 00:31:05,566 - INFO - JSON data exported to C:\Users\PC\Desktop\crewAi\results\mena_ai_ml_jobs_data.json
+2025-05-24 00:31:06,439 - INFO - Excel analysis exported to C:\Users\PC\Desktop\crewAi\results\mena_ai_ml_jobs_analysis.xlsx
+2025-05-24 00:31:06,444 - INFO - Markdown report exported to C:\Users\PC\Desktop\crewAi\results\mena_ai_ml_jobs_report.md
+2025-05-24 00:31:06,444 - INFO - All reports created successfully in 'results' folder!
+2025-05-24 00:31:06,451 - INFO - Analysis completed successfully!
+2025-05-24 00:31:06,451 - INFO - Check the 'C:\Users\PC\Desktop\crewAi\results' folder for all generated reports and data files.
